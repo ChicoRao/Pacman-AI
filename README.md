@@ -1,6 +1,6 @@
 # Pacman-AI
 
-CMPT 310 Artificial Intelligence
+CMPT 310 Artificial Intelligence Survey
 
 Assignment 1: Search
 
